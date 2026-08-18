@@ -11,20 +11,6 @@
       ]
     },
     {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "-liq9SreKQhQ"
-      },
-      "source": [
-        "\n",
-        " textTrack A - Personal Expense Tracker\n",
-        "\n",
-        "This program help users record their daily expenses.\n",
-        "It shows total expensse and category-wise total.\n",
-        "Run all cells, then call main() to start.\n"
-      ]
-    },
-    {
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
@@ -62,10 +48,7 @@
         }
       ],
       "source": [
-        "import json\n",
-        "import os\n",
-        "python 201\n",
-        "python 201_\n",
+        "\n",
         "\n",
         " textTrack A - Personal Expense Tracker\n",
         "\n",
@@ -224,7 +207,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPolMR0HpCKPyx1ZXVESfuR",
+      "authorship_tag": "ABX9TyOS6vL1bGnjnLKdimPbpFYS",
       "include_colab_link": true
     },
     "kernelspec": {
